@@ -29,6 +29,8 @@ export default function Projects(){
                 Formålet var at vise brugerens vej fra startside til betaling af ordren.
             </p>
             <img src="./nippon.png" className="projectImg" alt="Billede der viser forsiden af projektet Nippon"/>
+            <br/>
+            <br/>
             <a href="https://lundp97.dk/nippon/">Se siden her</a>
             </section>
         </div>
@@ -41,6 +43,8 @@ export default function Projects(){
                 på deres kommende events. Alt sammen kunne gøre fra forsiden, da det skulle være nemt og ligetil.
             </p>
             <img src="./tk.png" className="projectImg" alt="Billede der viser et tidligere projekt"/>
+            <br/>
+            <br/>
             <a href="https://lundp97.dk/teaterkatten/">Se siden her</a>
             </section>
         </div>
