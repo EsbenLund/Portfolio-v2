@@ -8,6 +8,20 @@ export default function Projects(){
         </p>
         <div className="workBox">
             <h1>Jensen Cykler</h1>
+            <p className="yearP">1. Semester Projekt</p>
+            <section>
+            <p>I det første projekt på studiet, fik vi til opgave at lave et online magasin. Det indhold vi skulle skrive om var frit,
+                og jeg valgte at skrive om motion. Denne side er meget simpel, da det var vores første projekt. Den er derfor kun
+                lavet med HTML og CSS.
+            </p>
+            <img src="./onlinem.png" className="projectImg" alt="Billede af Onlinemagasin projekt"/>
+            <br/>
+            <br/>
+            <a href="https://lundp97.dk/onlinemagasin/">Se siden her</a>
+            </section>
+        </div>
+        <div className="workBox">
+            <h1>Jensen Cykler</h1>
             <p className="yearP">1. Semester Eksamen</p>
             <section>
             <p>Her lavede jeg en hjemmeside som skulle oplyse om et produkt fra Jensen Cykler.
