@@ -19,7 +19,7 @@ export default function Projects(){
             <img src="./moviemagnet.png" className="projectImg" alt="Billede af Onlinemagasin projekt"/>
             <br/>
             <br/>
-            <a href="https://lundp97.dk/onlinemagasin/">Se siden her</a>
+            <a href="https://moviemagnet-esbenlund.vercel.app/">Se siden her</a>
             </section>
         </div>
         <div className="workBox">
