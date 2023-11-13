@@ -7,6 +7,22 @@ export default function Projects(){
         <p>Her er et lille udrag af nogle de projekter jeg har arbejdet på
         </p>
         <div className="workBox">
+            <h1>Movie Magnet</h1>
+            <p className="yearP">3. Semester Gruppe Eksamens Projekt </p>
+            <section>
+            <p> I dette projekt har vi udviklet en Web-App som vi kalder Movie Magnet. Formålet med denne app er at brugeren nemt kan 
+                finde film. I vores research fandt vi ud af at mange brugere bruger lang tid på at finde en film. Derfor har vi lavet en Web-App
+                hvor brugeren kan få anbefalet. Derudover har man også mulighed for at gemme film, og dermed have sit eget filmbibliotek i lommen. 
+                Denne Web-App er udviklet i React.jsx og bruger TMDB's API til fetche film. Derudover har vi brugt Firebase og Firestore til at gemme brugerens data.
+                Denne Web-App er udviklet som en mobil applikation, og er derfor ikke beregnet til desktop.
+            </p>
+            <img src="./moviemagnet.png" className="projectImg" alt="Billede af Onlinemagasin projekt"/>
+            <br/>
+            <br/>
+            <a href="https://lundp97.dk/onlinemagasin/">Se siden her</a>
+            </section>
+        </div>
+        <div className="workBox">
             <h1>Jensen Cykler</h1>
             <p className="yearP">1. Semester Projekt</p>
             <section>
