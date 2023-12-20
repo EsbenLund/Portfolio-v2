@@ -7,7 +7,7 @@ export default function Projects(){
         <p>Her er et lille udrag af nogle de projekter jeg har arbejdet på
         </p>
         <div className="workBox">
-            <h1>Online Booking</h1>
+            <h1>Online Booking - Hvidsten Kro</h1>
             <p className="yearP">3. Semester Gruppe Eksamens Projekt </p>
             <section>
             <p> I dette projekt har udviklet en online booking system til Hvidsten Kro. I dette projekt vi ikke haft stort fokus på design,
