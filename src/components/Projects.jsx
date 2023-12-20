@@ -36,48 +36,6 @@ export default function Projects(){
             </section>
         </div>
         <div className="workBox">
-            <h1>Jensen Cykler</h1>
-            <p className="yearP">1. Semester Projekt</p>
-            <section>
-            <p>I det første projekt på studiet, fik vi til opgave at lave et online magasin. Det indhold vi skulle skrive om var frit,
-                og jeg valgte at skrive om motion. Denne side er meget simpel, da det var vores første projekt. Den er derfor kun
-                lavet med HTML og CSS.
-            </p>
-            <img src="./onlinem.png" className="projectImg" alt="Billede af Onlinemagasin projekt"/>
-            <br/>
-            <br/>
-            <a href="https://lundp97.dk/onlinemagasin/">Se siden her</a>
-            </section>
-        </div>
-        <div className="workBox">
-            <h1>Jensen Cykler</h1>
-            <p className="yearP">1. Semester Eksamen</p>
-            <section>
-            <p>Her lavede jeg en hjemmeside som skulle oplyse om et produkt fra Jensen Cykler.
-                Hensigten med denne opgave var at øge opmærksomheden på Jensen Cykler. Det gjorde jeg ved at en fiktiv konkurrence, 
-                hvor man kunne vinde den perfekte cykel til studerende.
-            </p>
-            <img src="./jensen.png" className="projectImg" alt="Billede af Jensen Cykler eksamensprojekt"/>
-            <br/>
-            <br/>
-            <a href="https://lundp97.dk/jensencykler/">Se siden her</a>
-            </section>
-        </div>
-        <div className="workBox">
-            <h1>Nippon Måltidskasser</h1>
-            <p className="yearP">2. Semester Gruppe Projekt</p>
-            <section>
-            <p>I dette projekt skulle vi lave en hjemmeside, til en fiktiv virksomhed som sælger måltidskasser.
-                Hjemmesiden er beregnet til Ipad/tablet. Der er ikke så meget kode i dette projekt.
-                Formålet var at vise brugerens vej fra startside til betaling af ordren.
-            </p>
-            <img src="./nippon.png" className="projectImg" alt="Billede der viser forsiden af projektet Nippon"/>
-            <br/>
-            <br/>
-            <a href="https://lundp97.dk/nippon/">Se siden her</a>
-            </section>
-        </div>
-        <div className="workBox">
             <h1>Teaterkatten</h1>
             <p className="yearP">2. Semester Eksamen</p>
             <section>
