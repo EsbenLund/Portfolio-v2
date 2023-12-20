@@ -7,6 +7,19 @@ export default function Projects(){
         <p>Her er et lille udrag af nogle de projekter jeg har arbejdet på
         </p>
         <div className="workBox">
+            <h1>Online Booking</h1>
+            <p className="yearP">3. Semester Gruppe Eksamens Projekt </p>
+            <section>
+            <p> I dette projekt har udviklet en online booking system til Hvidsten Kro. I dette projekt vi ikke haft stort fokus på design,
+                men derimod funktionalitet. I dette projekt har vi bl.a. brugt React.js, JavaScript, Firebase og Tailwind.css.
+            </p>
+            <img src="./hvidsten.png" className="projectImg" alt="Billede af hvidstenkro"/>
+            <br/>
+            <br/>
+            <a href="https://hvidsten-kro-booking.vercel.app/">Se siden her</a>
+            </section>
+        </div>
+        <div className="workBox">
             <h1>Movie Magnet</h1>
             <p className="yearP">3. Semester Gruppe Eksamens Projekt </p>
             <section>
@@ -16,7 +29,7 @@ export default function Projects(){
                 Denne Web-App er udviklet i React.jsx og bruger TMDB's API til fetche film. Derudover har vi brugt Firebase og Firestore til at gemme brugerens data.
                 Denne Web-App er udviklet som en mobil applikation, og er derfor ikke beregnet til desktop.
             </p>
-            <img src="./moviemagnet.png" className="projectImg" alt="Billede af Onlinemagasin projekt"/>
+            <img src="./moviemagnet.png" className="projectImg" alt="Billede af hvidstenkro"/>
             <br/>
             <br/>
             <a href="https://moviemagnet-esbenlund.vercel.app/">Se siden her</a>
